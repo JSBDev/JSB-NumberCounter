@@ -68,6 +68,7 @@ export class AppComponent implements OnInit {
   ///
 }
 ```
+![Screenshot](screenshot.png)
 
 ## Running the example in local env
 

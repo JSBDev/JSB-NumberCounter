@@ -75,7 +75,7 @@ import { Component, ElementRef, ViewChild, Input, AfterViewInit, SimpleChanges }
  }
   .numCounter {
     overflow: hidden;
-    position: absolute;
+    
     width: 480px;
     height: 70px;
     margin: auto;
@@ -92,7 +92,7 @@ import { Component, ElementRef, ViewChild, Input, AfterViewInit, SimpleChanges }
  }
   .numCounter:before {
     content: "";
-    position: absolute;
+    
     left: -10%;
     right: -10%;
     top: -50%;
