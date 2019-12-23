@@ -3,7 +3,8 @@ import { NgModule } from '@angular/core';
 
 import { AppRoutingModule } from './app-routing.module';
 import { AppComponent } from './app.component';
-import { JSBNumCounterModule } from 'projects/jsbnum-counter/src/public-api';
+import { JSBNumCounterModule } from 'jsbnum-counter';
+
 
 @NgModule({
   declarations: [

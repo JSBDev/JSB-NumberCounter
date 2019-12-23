@@ -1,6 +1,24 @@
 {
   "name": "jsbnum-counter",
-  "version": "0.0.1",
+  "version": "1.0.3",
+  "description":"A simple Number Counter Commponent to be used with Angular.",
+  "author": "JS Bachhal (Jassisngh11@gmail.com)",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/JSBDev/JSB-NumberCounter.git"
+  },
+  "bugs": {
+    "url": "https://github.com/JSBDev/JSB-NumberCounter/issues"
+  },
+  "homepage": "https://github.com/JSBDev/JSB-NumberCounter",
+  "keywords": [
+    "angular",
+    "javascript",
+    "typescript",
+    "Number Counter",
+    "JSB"
+  ],
+  "license": "MIT",
   "peerDependencies": {
     "@angular/common": "^8.2.14",
     "@angular/core": "^8.2.14"
