@@ -3,7 +3,7 @@
 * A simple Number Counter Commponent to be used with Angular.
 * It is developed using `Angular >=8.0.0` and its newly introduced `ng g library` schematics.
 * This library is part of JSBNumberCounter project and it is generated with [Angular CLI](https://github.com/angular/angular-cli) version 8.3.21.
-* Library location: `projects/ngx-mat-typeahead` directory of this repository.
+* Library location: `projects/jsbnum-counter` directory of this repository.
 
 ## Examples/Demo
 
@@ -11,7 +11,7 @@
 
 ## Installation
 
-`npm i JSB-NumberCounter`
+`npm i jsbnum-counter`
 
 ## API
 
