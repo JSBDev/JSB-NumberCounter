@@ -68,7 +68,7 @@ export class AppComponent implements OnInit {
   ///
 }
 ```
-![Screenshot](screenshot.png)
+![Screenshot](https://github.com/JSBDev/JSB-NumberCounter/blob/master/src/assets/Sample.PNG?raw=true)
 
 ## Running the example in local env
 

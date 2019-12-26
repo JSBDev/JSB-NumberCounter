@@ -1,6 +1,6 @@
 {
   "name": "jsbnum-counter",
-  "version": "1.0.7",
+  "version": "1.0.8",
   "description":"A simple Number Counter Commponent to be used with Angular.",
   "author": "JS Bachhal (Jassisngh11@gmail.com)",
   "repository": {
