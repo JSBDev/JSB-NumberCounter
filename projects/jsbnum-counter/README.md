@@ -13,6 +13,9 @@
 
 `npm i jsbnum-counter`
 
+## Demo 
+[App Demo](https://stackblitz.com/github/JSBachhal/JSB-NumberCounter)
+
 ## API
 
 `import { JSBNumCounterModule } from 'jsbnum-counter'`<br>
@@ -22,8 +25,9 @@
 
 | Input            | Type    | Required                   | Description                                                                                               |
 | ---------------- | ------- | -------------------------- | --------------------------------------------------------------------------------------------------------- |
-| NumberData       | string  | **YES**                    | the Number Data to be disaplayed.                                                                         |
-
+| NumberData       | number  | **YES**                    | the Number Data to be disaplayed.                                                                         |
+## IE11
+please use Pollyfill for IE support
 
 ## Usage
 
@@ -60,7 +64,7 @@ import { FormControl, FormGroup } from '@angular/forms';
 import { AppService } from './app.service';
 @Component({
   selector: 'mat-ta-root',
-  template: `<JSBNumCounter [NumberData]='NumberData'></JSBNumCounter>
+  template: `<JSBNumCounter [NumberData]='NumberData'>My Counter</JSBNumCounter>
 `,
   styleUrls: ['./app.component.css']
 })

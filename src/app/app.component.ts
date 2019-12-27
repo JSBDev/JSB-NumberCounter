@@ -16,8 +16,8 @@ export class AppComponent implements OnInit{
   calme(){
     
     setInterval( _ => {
-      this.NumberData = Math.floor(Math.random() * 90000) + 10000;
-      console.log(this.NumberData);
+      this.NumberData = Math.floor(Math.random() * 9000000) + 10000;
+      //console.log(this.NumberData);
   
     }, 1000);
     
