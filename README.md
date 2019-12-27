@@ -42,6 +42,8 @@ To get more help on the Angular CLI use `ng help` or go check out the [Angular C
 
 `npm i jsbnum-counter`
 
+## Demo 
+[App Demo](https://stackblitz.com/github/JSBachhal/JSB-NumberCounter)
 ## API
 
 `import { JSBNumCounterModule } from 'jsbnum-counter'`<br>
